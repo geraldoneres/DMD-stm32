@@ -1,0 +1,17 @@
+dmd.c:18:6:DMD_init	16	static
+dmd.c:38:6:HAL_TIM_PeriodElapsedCallback	16	static
+dmd.c:48:6:writePixel	40	static
+dmd.c:101:6:drawString	56	static
+dmd.c:129:6:drawMarquee	48	static
+dmd.c:144:6:stepMarquee	72	static
+dmd.c:224:6:clearScreen	16	static
+dmd.c:235:6:drawLine	48	static
+dmd.c:284:6:drawCircle	56	static
+dmd.c:302:6:drawCircleSub	32	static
+dmd.c:329:6:drawBox	40	static
+dmd.c:339:6:drawFilledBox	48	static
+dmd.c:348:6:drawTestPattern	40	static
+dmd.c:398:6:scanDisplayBySPI	8	static
+dmd.c:445:6:selectFont	16	static
+dmd.c:449:5:drawChar	80	static
+dmd.c:513:5:charWidth	32	static

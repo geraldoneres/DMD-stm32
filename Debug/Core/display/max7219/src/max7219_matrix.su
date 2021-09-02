@@ -1,0 +1,10 @@
+max7219_matrix.c:9:16:MAX7219_SendToDevice	32	static
+max7219_matrix.c:29:16:MAX7219_SetDecodeMode	16	static
+max7219_matrix.c:44:16:MAX7219_SetIntensity	16	static
+max7219_matrix.c:59:16:MAX7219_SetScanLimit	16	static
+max7219_matrix.c:74:16:MAX7219_Shutdown	16	static
+max7219_matrix.c:89:16:MAX7219_SetDisplayTest	16	static
+max7219_matrix.c:104:16:MAX7219_SetPixel	32	static
+max7219_matrix.c:126:16:MAX7219_Clear	16	static
+max7219_matrix.c:142:16:MAX7219_Display	24	static
+max7219_matrix.c:171:16:MAX7219_Init	24	static
